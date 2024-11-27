@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#out{
+    border: solid 1px;
+    height: 650px;
+    background-image: url(bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px 650px;
+}
+   
+#register,#login{
+    height: 60px;
+    width: 150px;
+background-color: aquamarine;
+}
+#register{
+    margin-left: 700px;
+}
+#register a,#login a{
+    color: gold;
+    font-size: 21px;
+    text-decoration: none;
+    }
+#register:hover,#login:hover{
+    background-color: black;
+
+}
+h1{
+    color: aqua;
+    font-size:60px;
+    margin-top:150px;
+    margin-left:650px;
+
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
